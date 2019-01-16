@@ -3,13 +3,13 @@
 ## Table of Contents
 
 - [Overview](project/overview.md)
-- [Features](./features/index.md)
-  - [Interactive Map](./features/interactive_map.md)
-  - [Facts](./features/facts.md)
-  - [Narratives](./features/narratives.md)
-  - [Voting](./features/voting.md)
-  - [Search](./features/search.md)
-  - [Admin Interface](./features/admin_interface.md)
+- [Features](project/features.md)
+  - Interactive Map
+  - Facts
+  - Narratives
+  - Voting
+  - Search
+  - Admin Interface
 - [Use Cases](./use_cases/index.md)
 - [Contribute](./contribute/index.md)
   - Input historical data
