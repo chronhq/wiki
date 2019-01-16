@@ -2,8 +2,7 @@
 
 ## Table of Contents
 
-- About
-  - [Overview](./about/overview.md)
+- [Overview](project/overview.md)
 - [Features](./features/index.md)
   - [Interactive Map](./features/interactive_map.md)
   - [Facts](./features/facts.md)
