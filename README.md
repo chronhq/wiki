@@ -4,12 +4,6 @@
 
 - [Overview](project/overview.md)
 - [Features](project/features.md)
-  - Interactive Map
-  - Facts
-  - Narratives
-  - Voting
-  - Search
-  - Admin Interface
 - [Use Cases](./use_cases/index.md)
 - [Contribute](./contribute/index.md)
   - Input historical data
