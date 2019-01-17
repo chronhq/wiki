@@ -4,7 +4,7 @@
 
 - [Overview](project/overview.md)
 - [Features](project/features.md)
-- [Use Cases](./use_cases/index.md)
+- Use Cases
 - [Contribute](./contribute/index.md)
   - Input historical data
   - [Draw historical maps](./contribute/draw_historical_maps.md)
