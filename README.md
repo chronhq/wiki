@@ -2,16 +2,9 @@
 
 ## Table of Contents
 
-- About
-  - [Overview](./about/overview.md)
-- [Features](./features/index.md)
-  - [Interactive Map](./features/interactive_map.md)
-  - [Facts](./features/facts.md)
-  - [Narratives](./features/narratives.md)
-  - [Voting](./features/voting.md)
-  - [Search](./features/search.md)
-  - [Admin Interface](./features/admin_interface.md)
-- [Use Cases](./use_cases/index.md)
+- [Overview](project/overview.md)
+- [Features](project/features.md)
+- Use Cases
 - [Contribute](./contribute/index.md)
   - Input historical data
   - [Draw historical maps](./contribute/draw_historical_maps.md)
