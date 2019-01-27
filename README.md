@@ -14,6 +14,7 @@
 - Roadmap & Open-Source Project Management
   - [v1 Roadmap](./project/v1_roadmap.md)
   - [Labeling](./project/labeling.md)
+  - [License](./project/licenses.md)
 
 ## Come chat with us!
 
