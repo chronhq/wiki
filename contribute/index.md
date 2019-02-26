@@ -7,4 +7,3 @@ There are several ways you can contribute:
 - Frontend/backend coding
 - Design
 
-If you wish to contribute in any other way, please send use an email at `hello@chronoscio.org`.
