@@ -24,16 +24,16 @@ Political Relations represent political responsibilities between TE. For example
 ### People
 
 Request to WIkidata  
-https://github.com/chronhq/microservices/blob/master/fetch_actors.py
+[https://github.com/chronhq/microservices/blob/master/fetch_actors.py](https://github.com/chronhq/microservices/blob/master/fetch_actors.py)
 
 ### Cities
 
-https://github.com/chronhq/microservices/blob/master/fetch_cities.py
+[https://github.com/chronhq/microservices/blob/master/fetch_cities.py](https://github.com/chronhq/microservices/blob/master/fetch_cities.py)
 
 ### Battles and peace treaties
 
-https://github.com/chronhq/microservices/blob/master/fetch_battles.py
-https://github.com/chronhq/microservices/blob/master/fetch_treaties.py
+[https://github.com/chronhq/microservices/blob/master/fetch_battles.py](https://github.com/chronhq/microservices/blob/master/fetch_battles.py)
+[https://github.com/chronhq/microservices/blob/master/fetch_treaties.py](https://github.com/chronhq/microservices/blob/master/fetch_treaties.py)
 
 ### Other ideas
 
@@ -41,5 +41,5 @@ Monuments, buildings etc, could all possibly be added in the future as entities.
 
 ## Technical Implementation
 
-Here is a Google Sheet describing the database architecture: https://docs.google.com/spreadsheets/d/1jQ1Jm9ijuu2ZePYDQwe82kFxqiYLnrWi-t9-BbXs5EM/edit#gid=1000374390
+Here is a Google Sheet describing the database architecture: [https://docs.google.com/spreadsheets/d/1jQ1Jm9ijuu2ZePYDQwe82kFxqiYLnrWi-t9-BbXs5EM/edit#gid=1000374390](https://docs.google.com/spreadsheets/d/1jQ1Jm9ijuu2ZePYDQwe82kFxqiYLnrWi-t9-BbXs5EM/edit#gid=1000374390)
 
