@@ -2,11 +2,17 @@
 
 ## Table of Contents
 
-- [Overview](project/overview.md)
+- About
+  - [Overview](project/overview.md)
+  - [Onboarding](project/onboarding.md)
 - [Features](project/features.md)
+  - [Facts](project/facts.md)
+  - [Collaboration & Moderation](project/collab.md)
+  - [Narratives](project/narratives.md)
+  - [Weight system](project/weight_system.md)
 - Use Cases
 - [Contribute](./contribute/index.md)
-  - Input historical data
+  - [Input historical data](./contribute/input_historical_data.md)
   - [Draw historical maps](./contribute/draw_historical_maps.md)
     - [List of historic map resources](https://docs.google.com/document/d/16VRnTbky9e9FsBZ9H9JlnpvoaQQbquDte8APCQQ8cS8/edit)
   - Frontend/backend coding
