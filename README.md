@@ -7,9 +7,9 @@
   - [Onboarding](project/onboarding.md)
 - [Features](project/features.md)
   - [Facts](project/facts.md)
-  - [Collaboration & Moderation](project/collab.md)
+  - Collaboration & Moderation
   - [Narratives](project/narratives.md)
-  - [Weight system](project/weight_system.md)
+  - Weight system
 - Use Cases
 - [Contribute](./contribute/index.md)
   - [Input historical data](./contribute/input_historical_data.md)
@@ -24,4 +24,4 @@
 
 ## Come chat with us!
 
-We are always hanging out on Discord: https://discord.gg/fUuNaDk.
+We are always hanging out on Discord: [https://discord.gg/fUuNaDk](https://discord.gg/fUuNaDk).
