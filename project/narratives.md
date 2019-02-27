@@ -15,7 +15,7 @@ A narrative is then just an ordered series of narrations.
 
 ## UX
 
-UX-wise, similar to https://chronmaps.com/napoleon. For example, if you search for "history of electricity", the map will take you from Franklin to Volta to Faraday each time you press "next", and on each stop there'll be a small description of what happened.
+UX-wise, similar to [This one about Napoleonic wars](https://chronmaps.com/napoleon). For example, if you search for "history of electricity", the map will take you from Franklin to Volta to Faraday each time you press "next", and on each stop there'll be a small description of what happened.
 
 ## Subjectivity
 
@@ -35,4 +35,4 @@ Read more in the [chapter about collaboration](./collaboration_moderation.md).
 
 ## Link to Discord disccusion
 
-https://discord.gg/gMnzR5A
+[https://discord.gg/gMnzR5A](https://discord.gg/gMnzR5A)
