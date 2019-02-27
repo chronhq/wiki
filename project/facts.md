@@ -13,7 +13,7 @@ In the near future we plan on adding more open data online resources and impleme
 
 Chron team uses the concept of Territorial Entities and SpaceTime Volumes. 
 
-[TE](https://en.wikipedia.org/wiki/Territorial_entity) - A territorial entity that covers a part of the surface of the Earth with specified borders. TEs contain Wikidata id, political relations and color. TE also has [Admin level](/documentation/admin_level.md)
+[TE](https://en.wikipedia.org/wiki/Territorial_entity) - A territorial entity that covers a part of the surface of the Earth with specified borders. TEs contain Wikidata id, political relations and color. TE also has [Admin level](/documentation/admin_level.md).
 
 STV (SpaceTime Volume) is a territory with start-end dates. The start and end dates linked to the same territory cannot overlap. Therefore, put together, the Territories show the evolution in time of this Entity. For example a kingdom may see its borders changing with a series of Territories. 
 
