@@ -41,5 +41,5 @@ Monuments, buildings etc, could all possibly be added in the future as entities.
 
 ## Technical Implementation
 
-Here is a Google Sheet describing the database architecture: [https://docs.google.com/spreadsheets/d/1jQ1Jm9ijuu2ZePYDQwe82kFxqiYLnrWi-t9-BbXs5EM/edit#gid=1000374390](https://docs.google.com/spreadsheets/d/1jQ1Jm9ijuu2ZePYDQwe82kFxqiYLnrWi-t9-BbXs5EM/edit#gid=1000374390)
+Here is a the [database](/wiki/documentation/database) architecture
 
