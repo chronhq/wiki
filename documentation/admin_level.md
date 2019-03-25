@@ -34,3 +34,13 @@ Main idea: it would be better to have one source of truth for maps. If borders w
 For displaying map properly while exploring it at the admin_level = 2 when we store a redundant STV's all foreign territories with _Direct Political Relations_ (like colonies) should be included as parents territory and parent should be updated each time colony has claimed new territory. This will result in creating a separate STV for parent each time.
 
 Mapbox MVT layer used on frontend for visualization requires us to map AP only once per layer.
+
+## Zoom level and admin level relation
+
+Zoom levels are restricted from 1 to 8, the latter being the closest.
+
+| Admin Level | Zoom Level | Type of TE |
+| --- | --- | --- |
+| 1 | manual toggle | coalitions, unions, alliances, supranational organizations|
+| 2 | < 3.5 | nations, empires, kingdoms, countries |
+| 3 | >= 3.5 | regions as deeper administrative units |
