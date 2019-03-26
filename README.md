@@ -20,12 +20,11 @@ We are always hanging out on Discord: [https://discord.gg/fUuNaDk](https://disco
 
 # CURRENT ISSUES TBD
 
-## HIGH PRIORITY
+## HIGH PRIORITY 
 
-- [Cities Importance](https://github.com/chronhq/backend/issues/78)
-- [Update ranking algorithm](https://github.com/chronhq/backend/issues/77)
-
+- TBD
 
 ## NEXT TO DO
 
 - Currently working on the [SRS](https://docs.google.com/document/d/1QD5cMUbXbKhfGCPTBmvsHfig-xKwDsCRXfIeW42jVzM/edit?usp=sharing) for next release in May
+- The scope can be found [in Github issue tracker](https://github.com/orgs/chronhq/projects/2)
