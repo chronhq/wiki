@@ -22,9 +22,10 @@ We are always hanging out on Discord: [https://discord.gg/fUuNaDk](https://disco
 
 ## HIGH PRIORITY 
 
-- TBD
+- Currently working on the [SRS](https://docs.google.com/document/d/1QD5cMUbXbKhfGCPTBmvsHfig-xKwDsCRXfIeW42jVzM/edit?usp=sharing) for next release in May
+- The scope can be found [in Github issue tracker](https://github.com/orgs/chronhq/projects/2)
 
 ## NEXT TO DO
 
-- Currently working on the [SRS](https://docs.google.com/document/d/1QD5cMUbXbKhfGCPTBmvsHfig-xKwDsCRXfIeW42jVzM/edit?usp=sharing) for next release in May
-- The scope can be found [in Github issue tracker](https://github.com/orgs/chronhq/projects/2)
+- TBD
+
