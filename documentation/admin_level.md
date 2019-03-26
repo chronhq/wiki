@@ -37,7 +37,7 @@ Mapbox MVT layer used on frontend for visualization requires us to map AP only o
 
 ## Zoom level and admin level relation
 
-Zoom levels are currently restricted from 1 (zoomed out) to 8 (zoomed in).
+Zoom levels are currently restricted from 1 (zoomed out) to 8 (zoomed in). Admin level changes automatically for territories that have its regions mapped.
 
 | Admin Level | Zoom Level | Type of TE |
 | --- | --- | --- |
