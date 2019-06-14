@@ -16,7 +16,7 @@
   - [Labeling](./project/labeling.md)
   - [License](./project/licenses.md)
 
-We are always hanging out on Discord: [https://discord.gg/fUuNaDk](https://discord.gg/fUuNaDk).
+We are always hanging out on Discord: [https://discord.gg/rN3uen5](https://discord.gg/rN3uen5)
 
 # CURRENT ISSUES TBD
 
